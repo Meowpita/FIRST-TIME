@@ -1,7 +1,7 @@
 
 # Hey there! I'm Arpita Dam 👋
 
-### CSE Student | Aspiring Software Developer
+### CS Student | Aspiring Software Developer
 
 💻 Passionate about technology, programming and problem-solving.
 
@@ -34,24 +34,36 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
 ### 🚀 Projects
 
-| Project | Description |
-|---|---|
-| Banglish Sentiment Analysis | NLP research using BanglishBERT and LoRA |
-| Personal Finance Tracker | A budget and expense tracking application |
-| Computer Graphics Projects | Graphics programming using Python and OpenGL |
-| DSA Practice | Data Structures and Algorithms implementations |
+- 💰 Personal Finance Tracker
+- 🧠 Banglish Sentiment Analysis
+- 📊 Graph Algorithm Visualizer
+- 🎓 Student Management System
+- 📚 Library Management System
+- 🎮 Tic-Tac-Toe Game
+- 🤖 Robotics & Automation Projects
+- 🎨 Computer Graphics Projects
+- 💻 Data Structures & Algorithms Collection
+- 🧩 Maze Solver
 
----
+### 📚 Currently Exploring
 
-### 📚 Currently Learning
-
+- Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
-- Object-Oriented Programming
-- Machine Learning
+- Software Engineering
+- Artificial Intelligence & Machine Learning
+- Natural Language Processing (NLP)
+- Robotics and Embedded Systems
+
+### 🔭 Areas of Interest
+
+- Artificial Intelligence & Machine Learning
 - Natural Language Processing
+- Robotics and Automation
+- Software Development
+- Competitive Programming
+- Problem Solving
 
 ---
 
